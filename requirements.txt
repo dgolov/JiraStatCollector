@@ -1,0 +1,16 @@
+atlassian-python-api==3.41.14
+beautifulsoup4==4.12.3
+certifi==2024.7.4
+charset-normalizer==3.3.2
+Deprecated==1.2.14
+idna==3.7
+jmespath==1.0.1
+oauthlib==3.2.2
+python-dotenv==1.0.1
+requests==2.32.3
+requests-oauthlib==2.0.0
+six==1.16.0
+soupsieve==2.5
+tqdm==4.66.4
+urllib3==2.2.2
+wrapt==1.16.0
